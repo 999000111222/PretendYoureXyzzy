@@ -55,6 +55,7 @@ public class Constants {
       add("127.0.0.1");
       // ajanata
       add("107.218.154.202");
+      add("176.106.165.52");
     }
   };
 
